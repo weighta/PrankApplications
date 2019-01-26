@@ -1,0 +1,10 @@
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\ModelExtractor.csproj.GenerateResource.Cache
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\bin\Release\Ragdoll Tool V1.3.exe.config
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\bin\Release\Ragdoll Tool V1.3.exe
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\bin\Release\Ragdoll Tool V1.3.pdb
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\Ragdoll Tool V1.3.exe
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\Ragdoll Tool V1.3.pdb
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\ModelExtractor\ModelExtractor\obj\Release\ModelExtractor.csprojResolveAssemblyReference.cache
